@@ -1,0 +1,15 @@
+.top-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-style {
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+}
+
+.layout-button {
+  background-color: white;
+  border: 0px;
+}
